@@ -1,72 +1,104 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
-class Student
+// base class, name, cost, how much() return
+class Animal
 {
-    private static int Counter = 0;
-    private static double TotalGrade = 0;
+    public string Name { get; set; }
+    public int Age { get; set; }
 
-    public string Name;
-    public string Faculty;
-    public double Grade;
-
-    public Student(string name, string faculty, double grade)
+    public Animal(string name, int age)
     {
-        if (grade < 0 || grade > 100)
-            throw new ArgumentException("Not 0-100 arasında olmalıdır.");
-
-        Counter++;
-        TotalGrade += grade;
-
         Name = name;
-        Faculty = faculty;
-        Grade = grade;
+        Age = age;
     }
 
-    public static int GetObjectCount() => Counter;
+    public virtual double HowMuch()
+    {
+        return 0;
+    }
+}
+//breed(cat or dog) for dog main cost+walk cost
+class Species : Animal
+{
+    public string Breed { get; set; }
 
-    public static double GetAverageGrade() => Math.Round(TotalGrade / Counter, MidpointRounding.AwayFromZero);
+    
+    private const double CatCost = 1500;
+    private const double DogCost = 3000;
+    private const double DogWalkCost = 500;
 
-    public void DisplayInfo() => Console.WriteLine($"Ad: {Name}, Fakülte: {Faculty}, Not: {Grade:0.00}");
+    public Species(string name, int age, string breed)
+        : base(name, age)
+    {
+        Breed = breed;
+    }
+
+    public override double HowMuch()
+    {
+        if (Breed == "Cat")
+            return CatCost;
+
+        else if (Breed == "Dog")
+            return DogCost + DogWalkCost;
+
+        return 0;
+    }
+
+    
+    public double WalkCost()
+    {
+        if (Breed == "Dog")
+            return DogWalkCost;
+
+        return 0;
+    }
 }
 
 class Program
 {
     static void Main()
     {
-        var students = new List<Student>();
-        var rnd = new Random();
-
-        students.Add(new Student("Zeynep", "Computer Engineering", Math.Round(rnd.NextDouble() * 100, 2)));
-        students.Add(new Student("Kemal", "Makine Mühendisliği", Math.Round(rnd.NextDouble() * 100, 2)));
-        students.Add(new Student("Selen", "Bağcık Mühendisliği", Math.Round(rnd.NextDouble() * 100, 2)));
-        students.Add(new Student("Alperen", "Endüstri Mühendisliği", Math.Round(rnd.NextDouble() * 100, 2)));
-        students.Add(new Student("Batuhan", "Yazılım Mühendisliği", Math.Round(rnd.NextDouble() * 100, 2)));
-
-        // 1️⃣ İsme göre sıralama
-        var sortedByName = students.OrderBy(s => s.Name).ToList();
-        Console.WriteLine("---- Students Sorted by Name ----");
-        foreach (var s in sortedByName)
+        List<Animal> Animals = new List<Animal>
         {
-            s.DisplayInfo();
+            new Species("Mia", 2, "Cat"),
+            new Species("Luna", 3, "Cat"),
+            new Species("Max", 4, "Dog"),
+            new Species("Rocky", 5, "Dog")
+        };
+
+        Console.WriteLine("ANIMALS\n");
+
+        foreach (Animal animal in Animals)
+        {
+            Species s = (Species)animal;
+
+            Console.WriteLine($"Name: {s.Name}");
+            Console.WriteLine($"Breed: {s.Breed}");
+            Console.WriteLine($"Total Cost: {s.HowMuch()}");
+
+            if (s.Breed == "Dog")
+            {
+                Console.WriteLine($"Walk Cost: {s.WalkCost()}");
+            }
+
+            Console.WriteLine("---------------------");
         }
 
-        // 2️⃣ Nota göre sıralama
-        var sortedByGrade = students.OrderByDescending(s => s.Grade).ToList();
-        Console.WriteLine("\n---- Students Sorted by Grade ----");
-        foreach (var s in sortedByGrade)
-        {
-            s.DisplayInfo();
-        }
+        // the average price for the cats and dogs with LİNQ methods
+        double AverageCatPrice = Animals
+            .Cast<Species>()
+            .Where(a => a.Breed == "Cat")
+            .Average(a => a.HowMuch());
 
-        Console.WriteLine($"\nCreated student count: {Student.GetObjectCount()}");
-        Console.WriteLine($"Average grade: {Student.GetAverageGrade()}");
+        double AverageDogPrice = Animals
+            .Cast<Species>()
+            .Where(a => a.Breed == "Dog")
+            .Average(a => a.HowMuch());
 
-        // En iyi öğrenci
-        var best = sortedByGrade.First();
-        var bestGradeRounded = Math.Round(best.Grade, MidpointRounding.AwayFromZero);
-        Console.WriteLine($"\nThe Best Student: {best.Name} - Grade: {bestGradeRounded}");
+        Console.WriteLine("AVERAGES");
+        Console.WriteLine("Average Cat Price: " + AverageCatPrice);
+        Console.WriteLine("Average Dog Price: " + AverageDogPrice);
 
         Console.ReadLine();
     }
