@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\bin\Debug\net8.0\GuessTheNumber_Algorithm.exe
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\bin\Debug\net8.0\GuessTheNumber_Algorithm.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\bin\Debug\net8.0\GuessTheNumber_Algorithm.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\bin\Debug\net8.0\GuessTheNumber_Algorithm.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\bin\Debug\net8.0\GuessTheNumber_Algorithm.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\refint\GuessTheNumber_Algorithm.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\GuessTheNumber_Algorithm.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\GuessTheNumber_Algorithm\obj\Debug\net8.0\ref\GuessTheNumber_Algorithm.dll
