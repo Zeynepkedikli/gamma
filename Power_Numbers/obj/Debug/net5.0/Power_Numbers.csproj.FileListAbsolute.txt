@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.exe
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\bin\Debug\net5.0\Power_Numbers.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\refint\Power_Numbers.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\Power_Numbers.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Power_Numbers\obj\Debug\net5.0\ref\Power_Numbers.dll
