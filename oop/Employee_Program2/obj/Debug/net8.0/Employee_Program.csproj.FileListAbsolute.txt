@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\bin\Debug\net8.0\Employee_Program.exe
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\bin\Debug\net8.0\Employee_Program.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\bin\Debug\net8.0\Employee_Program.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\bin\Debug\net8.0\Employee_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\bin\Debug\net8.0\Employee_Program.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\refint\Employee_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\Employee_Program.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Employee_Program\obj\Debug\net8.0\ref\Employee_Program.dll
