@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_2", "Triangle_2.csproj", "{344E5DF3-1F31-4DFD-A8B3-F26101E3141E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344E5DF3-1F31-4DFD-A8B3-F26101E3141E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344E5DF3-1F31-4DFD-A8B3-F26101E3141E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344E5DF3-1F31-4DFD-A8B3-F26101E3141E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344E5DF3-1F31-4DFD-A8B3-F26101E3141E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4A0971-E667-487A-980A-6092BA4B5EC5}
+	EndGlobalSection
+EndGlobal

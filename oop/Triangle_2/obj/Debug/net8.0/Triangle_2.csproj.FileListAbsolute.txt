@@ -1,0 +1,4 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Triangle_2\obj\Debug\net8.0\Triangle_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Triangle_2\obj\Debug\net8.0\Triangle_2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Triangle_2\obj\Debug\net8.0\Triangle_2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Triangle_2\obj\Debug\net8.0\Triangle_2.csproj.CoreCompileInputs.cache

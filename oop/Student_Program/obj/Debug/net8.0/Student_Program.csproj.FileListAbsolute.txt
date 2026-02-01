@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\bin\Debug\net8.0\Student_Program.exe
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\bin\Debug\net8.0\Student_Program.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\bin\Debug\net8.0\Student_Program.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\bin\Debug\net8.0\Student_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\bin\Debug\net8.0\Student_Program.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\refint\Student_Program.dll
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.pdb
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\Student_Program.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Student_Program\obj\Debug\net8.0\ref\Student_Program.dll
