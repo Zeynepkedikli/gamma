@@ -1,0 +1,4 @@
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Biggest_Number_Program\obj\Debug\net5.0\Biggest_Number_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Biggest_Number_Program\obj\Debug\net5.0\Biggest_Number_Program.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Biggest_Number_Program\obj\Debug\net5.0\Biggest_Number_Program.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\OOPtümprojeler\Biggest_Number_Program\obj\Debug\net5.0\Biggest_Number_Program.csproj.CoreCompileInputs.cache
