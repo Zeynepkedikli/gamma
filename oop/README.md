@@ -1,5 +1,9 @@
-📂 Project Descriptions
-🔢 Algorithm & Number Programs
+Project Descriptions
+
+
+
+
+Algorithm & Number Programs
 
 Biggest_Number_Program
 Finds the largest number among given inputs using basic comparison logic.
@@ -43,7 +47,7 @@ A simplified Pi calculation program.
 Pİ_Calculator_Test
 Tests for Pi calculation programs.
 
-🎮 Guessing & Logic Games
+ Guessing & Logic Games
 
 GuessTheNumber_Algorithm
 Implements the algorithm logic for a number guessing game.
@@ -51,7 +55,7 @@ Implements the algorithm logic for a number guessing game.
 GuessTheNumber_User
 User-interactive version of the guessing game.
 
-👨‍💼 Object-Oriented & Data Programs
+Object-Oriented & Data Programs
 
 Employee_Program1
 Basic employee management program using object-oriented concepts.
@@ -65,7 +69,7 @@ Test cases for employee-related programs.
 Student_Program
 Student information management using classes and structured data.
 
-🔺 Geometry Programs
+Geometry Programs
 
 Triangle_Check
 Checks whether given sides can form a valid triangle.
@@ -76,7 +80,7 @@ Additional triangle-related calculations.
 Triangle_Check_Test
 Test cases for triangle validation logic.
 
-📊 Data & Functional Programming
+Data & Functional Programming
 
 Frequency_Program
 Calculates frequency of elements in a dataset.
@@ -87,7 +91,7 @@ Demonstrates the use of lambda expressions and functional programming concepts.
 Ling_Features_Program_Students
 Explores language features using student-based examples.
 
-🌐 Computer Networks
+ Computer Networks
 
 Computer_Network
 Fundamental computer network concepts and exercises.
@@ -98,7 +102,39 @@ Test cases related to network concepts.
 Computer_Network_simulation_Final_Project
 Final project involving computer network simulation and analysis.
 
-💻 General Programming Practice
+ General Programming Practice
 
 Computer_Program1 – Computer_Program7
 A series of programming exercises covering basic syntax, control structures, and algorithmic thinking.
+
+
+THE EXAM
+
+Rectangle Area Calculator
+Description
+
+Simple C# program demonstrating inheritance and polymorphism:
+
+Figure class → base class, GetArea() returns 0 for shapes with no area.
+
+Rectangle class → inherits from Figure, calculates area.
+
+Area 0 shapes are displayed as “No Area”.
+
+Average area is calculated using LINQ.
+
+Usage
+
+Run Program.cs.
+
+Console shows width, length, and area of rectangles.
+
+Average area is printed.
+
+Key Concepts
+
+Inheritance: Rectangle inherits from Figure
+
+Polymorphism: GetArea() behaves differently in each class
+
+Encapsulation: Fields are private, accessed via properties
