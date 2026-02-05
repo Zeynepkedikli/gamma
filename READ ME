@@ -1,0 +1,43 @@
+READ ME
+Image Slider Website
+
+This project is a simple website that displays an image slider with three images.
+It is created to practice basic web development using HTML, CSS, and Python.
+
+Project Structure
+
+HTMLPage.html – Main HTML file that defines the page structure and image slider.
+
+style.css – CSS file used for layout, positioning, and visual styling of the slider.
+
+foto1.jpg – First image used in the slider.
+
+foto2.jpg – Second image used in the slider.
+
+foto3.jpg – Third image used in the slider.
+
+websiteresult/ – Folder containing output or result files.
+
+mywebsite.py – Python file used to run or serve the website.
+
+mywebsite.sln – Visual Studio solution file.
+
+Features
+
+Image slider with three images
+
+HTML structure for content and layout
+
+CSS styling for design and positioning
+
+Local image usage
+
+Simple and readable project structure
+
+Technologies Used
+
+HTML
+
+CSS
+
+Python
